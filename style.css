@@ -1,0 +1,18 @@
+header{
+    background-color: yellow;
+    }
+    nav{
+        background-color: chartreuse;
+    }
+    div{
+        background-color: chocolate;
+    }
+    footer{
+        background-color: blue;
+        
+    }
+    span.caja{
+        background-color: yellow;
+        border: 1px solid blue;
+        display: inline;
+    }
